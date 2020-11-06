@@ -21,7 +21,7 @@
    
 * Imagens:
 
-  ![MWD-1](https://drive.google.com/uc?export=view&id=16WWpaFIvZBHvJ-RME6O3AjzQHG3ucKeC)
-  ![MWD-2](https://drive.google.com/uc?export=view&id=1XV-7CrcVpB7Dum-VlPnnvL9c9Cn71242)
-  ![MWD-3](https://drive.google.com/uc?export=view&id=1JiUvZaCPKvt6-k55FIK3OblQatKEOz1f)
+  ![LW-1](https://drive.google.com/uc?export=view&id=16WWpaFIvZBHvJ-RME6O3AjzQHG3ucKeC)
+  ![LW-2](https://drive.google.com/uc?export=view&id=1XV-7CrcVpB7Dum-VlPnnvL9c9Cn71242)
+  ![LW-3](https://drive.google.com/uc?export=view&id=1JiUvZaCPKvt6-k55FIK3OblQatKEOz1f)
 
