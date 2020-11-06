@@ -1,6 +1,0 @@
-1. Abra o Eclipse
-2. Em File/Open Projects from File System
-3. No campo Import source coloque o caminho da pasta Little Witch, por exemplo: D:\Desktop\FATEC\3 Semestre\Programação Orientada a Objetos\Little Witch
-4. Finish e aguarde a sincronização.
-5. No Eclipse, abra o arquivo localizado em desktop/src/me.gamepackage.desktop/DesktopLauncher
-6. Clique em Run DesktopLauncher
